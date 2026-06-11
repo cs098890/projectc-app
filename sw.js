@@ -1,4 +1,4 @@
-const C='projectc-v20260611';
+const C='projectc-v202606111806';
 const ASSETS=['.','index.html','manifest.webmanifest','icon-180.png','icon-512.png',
 'https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js',
 'https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js'];
